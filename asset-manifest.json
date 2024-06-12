@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/DgitalNftSite/static/css/main.a7979c35.css",
+    "main.js": "/DgitalNftSite/static/js/main.d0058e03.js",
+    "static/js/453.a740c386.chunk.js": "/DgitalNftSite/static/js/453.a740c386.chunk.js",
+    "static/media/13p.png": "/DgitalNftSite/static/media/13p.190fa77c46769a712937.png",
+    "static/media/business_plaintext_nft.webp": "/DgitalNftSite/static/media/business_plaintext_nft.7825e9aa3a3b133305a9.webp",
+    "static/media/11p.png": "/DgitalNftSite/static/media/11p.38b7caa8b8026270b7d8.png",
+    "static/media/7p.png": "/DgitalNftSite/static/media/7p.c881123af57b22ce744d.png",
+    "static/media/10p.png": "/DgitalNftSite/static/media/10p.9312b3abbb33d0279e90.png",
+    "static/media/122.png": "/DgitalNftSite/static/media/122.ca1df465b90c852e9f7c.png",
+    "static/media/14p.png": "/DgitalNftSite/static/media/14p.19f7c81ec4478f8c93a6.png",
+    "static/media/13.jpeg": "/DgitalNftSite/static/media/13.af5e6bbe382905d45095.jpeg",
+    "static/media/14.jpg": "/DgitalNftSite/static/media/14.0f2173b69013602377e4.jpg",
+    "static/media/image12.jpg": "/DgitalNftSite/static/media/image12.30d640e6579bf4e8018e.jpg",
+    "static/media/01.jpg": "/DgitalNftSite/static/media/01.7c3379c8a53b569e6743.jpg",
+    "static/media/11.jpg": "/DgitalNftSite/static/media/11.837d831c49173ab8cf44.jpg",
+    "static/media/hotcollectionthree.png": "/DgitalNftSite/static/media/hotcollectionthree.8f801e1b16f93ece61ce.png",
+    "static/media/2021-09-10-image-18.webp": "/DgitalNftSite/static/media/2021-09-10-image-18.1c6b600557acf2cbbb2c.webp",
+    "static/media/12p.png": "/DgitalNftSite/static/media/12p.f0f6e14965aa7485193b.png",
+    "static/media/headbanner.png": "/DgitalNftSite/static/media/headbanner.4adf9d6c8f12cdca05bd.png",
+    "static/media/9p.png": "/DgitalNftSite/static/media/9p.4ce63a008cda9ff3ae31.png",
+    "static/media/8p.png": "/DgitalNftSite/static/media/8p.4a6d369cd4b8edd48da4.png",
+    "static/media/logo.png": "/DgitalNftSite/static/media/logo.80662ebeea5c38cca3b5.png",
+    "static/media/d6a00c27.webp": "/DgitalNftSite/static/media/a76c1590a4ab2ae7219ea36817a6e2dfd6a00c27.442664778b7ab3535b5c.webp",
+    "index.html": "/DgitalNftSite/index.html",
+    "main.a7979c35.css.map": "/DgitalNftSite/static/css/main.a7979c35.css.map",
+    "main.d0058e03.js.map": "/DgitalNftSite/static/js/main.d0058e03.js.map",
+    "453.a740c386.chunk.js.map": "/DgitalNftSite/static/js/453.a740c386.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7979c35.css",
+    "static/js/main.d0058e03.js"
+  ]
+}
