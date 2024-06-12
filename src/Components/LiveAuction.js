@@ -40,7 +40,7 @@ const LiveAuction = ({liveAuctionData}) => {
                             <div >
                                             
                                             <div className='creator-content-line-one' >
-                                            <h5 classN>{nft.title}</h5>
+                                            <h5>{nft.title}</h5>
                                             </div>
                                           
                                             <div className='creator-content-line-one'>
