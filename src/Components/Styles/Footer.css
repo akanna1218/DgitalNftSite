@@ -1,0 +1,43 @@
+footer {
+    width: 100%;
+    height: 100%;
+    text-align: start;
+    margin-top: 2rem;
+    border-top: 4px solid rgba(128, 128, 128, 0.753);
+    padding: 10px;
+
+}
+
+footer h5{
+    text-align: center;
+}
+
+.footer-container{
+   display: flex;
+   justify-content: space-around;
+}
+
+ul button{
+    background-color: rgb(62, 79, 130);
+    color: azure;
+    border-radius: 4px;
+    box-shadow: rgb(163, 166, 168) 2px 2px 8px 2px;
+}
+
+
+
+.copy-right-line {
+    text-align: center;
+    margin: 10px;
+}
+
+@media screen and (max-width:768px) {
+    .footer-container{
+       flex-direction: column;
+       align-items: center;
+       text-align: left;
+     }
+     footer h5{
+        text-align: center;
+     }
+}
