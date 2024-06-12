@@ -25,7 +25,7 @@ return (
 
 
             <div className='logo'>
-               <a> <img src={logo} alt='logo'/></a>
+               <a href='#logo'> <img src={logo} alt='logo'/></a>
             </div>
 
                 <ul className='nav-links'>

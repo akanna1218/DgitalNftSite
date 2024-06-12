@@ -21,6 +21,7 @@ ul button{
     background-color: rgb(62, 79, 130);
     color: azure;
     border-radius: 4px;
+    margin: 10px;
     box-shadow: rgb(163, 166, 168) 2px 2px 8px 2px;
 }
 
@@ -33,11 +34,19 @@ ul button{
 
 @media screen and (max-width:768px) {
     .footer-container{
-       flex-direction: column;
-       align-items: start;
-       text-align: left;
-     }
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        justify-content: space-between; /* Adjusts spacing between items */
+        padding: 0 calc((100% - 3 * 60px) / 8); /* Adjust padding as needed */}
      footer h5{
-        text-align: start;
+        text-align: center;
+     }
+     input{
+        height: 25px;
+     }
+     .footer-button {
+        margin-left: 50px;
+
      }
 }

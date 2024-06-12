@@ -17,8 +17,8 @@
 
 
 .profile-card-recent {
-    width: 18rem;
-    height: 23rem;
+    width: 17rem;
+    height: 22rem;
     /* use rem for card div */
     overflow: hidden;
     box-shadow: 2px 2px 8px 2px;
@@ -29,7 +29,7 @@
 
 .profile-card-recent:hover {
     cursor: pointer;
-    width: 17rem;
+    width: 16rem;
     height: 21rem;
     font-size: small;
 

@@ -5,6 +5,8 @@
     height: max-content;
     overflow: hidden;
     padding: 10px;
+    background-image: url('./Assets/headbanner.png');
+    background-size: contain;
 
 }
 .discover-nft span{
